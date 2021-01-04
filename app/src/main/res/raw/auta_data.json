@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Nissan",
+    "value": "Juke",
+    "farba": "modra"  },
+  {
+    "name": "Suzuki",
+    "value": "sx4",
+    "farba": "zelena"
+  },
+  {
+    "name": "Suzuki",
+    "value": "Vitara",
+    "farba": "červená"
+  },
+  {
+    "name": "Honda",
+    "value": "CR-V",
+    "farba": "zelena"
+  },
+  {
+    "name": "Honda",
+    "value": "HR-V",
+    "farba": "hnedá"
+  }
+]
